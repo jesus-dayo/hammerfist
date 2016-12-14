@@ -190,3 +190,10 @@ footer p {
         clear: both;
     }
 }
+
+ul[rn-carousel] {
+    width:400px;
+    height:400px;
+    margin: 0 auto;
+}
+
